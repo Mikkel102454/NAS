@@ -1,0 +1,3 @@
+C:/Users/Mikkel/CLionProjects/NAS/cmake-build-debug/CMakeFiles/NAS.dir
+C:/Users/Mikkel/CLionProjects/NAS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mikkel/CLionProjects/NAS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
